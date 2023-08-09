@@ -1,0 +1,958 @@
+malic
+choc
+quinic
+blue
+burnt
+lemonrind
+coating
+short
+dried
+silky
+nutmeg
+1
+2
+3
+oolong
+tartaric
+medium
+papery
+peel
+longfinish
+miso
+macadamia
+wasab
+plain
+stone
+dragon
+lemongrass
+bit
+vegemite
+crackers
+thin
+mold
+raisin
+yuk
+plastic
+starbucks
+choc
+wine
+winey
+60%
+acetic
+acetone
+Acetric
+acid
+acidic
+acidity
+acidy
+acrid
+Alcohol
+Alcoholic
+almond
+Almond (Roasted)
+Almond (Sugared)
+Almond Skin
+Anaerobic
+Animalic
+Anise
+Anistar
+apple
+Apple (Cooked)
+Apple (Fermented)
+Apple (Green)
+Apple (Red)
+Apple (Steamed)
+apple cider
+Apple Jam
+Apple Skin
+applelike
+apple-like
+applesauce
+apricot
+ash
+ashy
+Asparagus
+asparagus
+astringent
+baggy
+Balance
+balanced
+balsamic vinegar
+banana
+Banana (Green)
+Barley
+barrel
+basil
+Basmati Rice
+bbq
+bbq
+BBQ Sweet
+bean
+Beefy
+Beetroot
+Belles apricot bar
+Bergamot
+berries
+Berries (Bright)
+berry
+Berry (Dry)
+berry like
+berrylike
+biscuit
+Biting
+bitter
+bitter toffee
+black
+Black Pepper
+blackberry
+Blackcurrant
+Blackcurrent
+blacktea
+blacktealike
+bland
+Blood Orange
+blossom
+blueberry
+body
+body
+Bolognaise
+boozey
+boozy
+bourbon
+bouyant
+boysenberryicecream
+brazil
+brazilnut
+bread
+bread
+Bread (Baked)
+Bread (Caramelized)
+Bread (Crumb)
+Bread (Crust)
+Bread (White)
+Bread Crumb
+Bread Crust
+Bready
+bright
+Bright (Fruit)
+Bright Fruit
+bright fruit
+Brothy
+brothy
+brown roast
+brown spice
+Brown Spices
+Brown Sugar
+brown, roast
+brownroast
+brownsugar
+Bubble Gum
+Burn
+burned
+burnt
+Burnt Candy
+Burnt Nut
+Burnt Popcorn
+Burnt Rubber
+burnt sugar
+Burnt Toast
+burntcaramel
+butter
+Buttery
+Butyric
+cacao
+Cake
+caky
+Candied Almond
+Candied Sweet
+Candried Shrimp
+candy
+candy
+cane
+Canola
+Cantaloupe
+Capsicum
+capsicum
+Carambola
+caramel
+Caramel (Dark)
+Caramel (Light)
+Caramelized
+Cardamon
+cardboard
+Cardboard (Wet)
+cascara
+cascare
+Cashew
+cashewfruit
+Cedar
+Celery
+cereal
+Cereal (Sweet)
+Chalky
+chamomile
+charcoal
+Chedder
+Cheese
+cheesecake
+cheeselike
+chemical
+cherry
+cherry
+chewy
+chicken
+chip
+chloride
+chlorine
+Chlorogenic
+chocolate
+Chocolate (Bakers)
+Chocolate (Dry)
+Chocolate (Milk)
+chocolate 55%
+Chocolate 65%
+chomanile
+cider
+cinamin
+cinamon
+cinamon
+cinanmon
+cinnamon
+citric
+Citric
+citric
+citris
+citrus
+Citrus-Like
+clean
+clean
+clear
+clove
+Cloves
+coarse
+coating
+cocoa
+cocoa
+Cocoa (Sweet)
+Cocoa Butter
+Cocoa Nibs
+coconut
+coffee
+Cola
+complex
+Confectionery
+cooked
+Cooked Fruit
+Cooked Peach
+Cooked Potato
+cooked potato
+Cooked Rice
+cooling
+Cordial
+cordiall
+Coriander
+corn
+corn
+Corn Silk Tea
+corriander
+Cough Syrup
+cracker
+Cradling
+cranberry
+Cream
+creamy
+crisp
+Crispy
+crumbed
+Cucumber
+Currant
+Currant-Like
+Current
+Curry
+Curry Leaf
+dairy
+damp
+dark
+Dark Berry
+Dark Caramel
+Dark Caramel
+Dark Caramel
+Dark Cherry
+Dark Chocolate
+dark chocolate
+Dark Chocolate (Bitter)
+Dark Fruit
+Dark Grape
+Dark Green
+Dark Honey
+Dark Red
+Dark Red Fruits
+Dark Sugar
+darkchocolate
+Date
+Dates
+Deep
+Defect
+Dehydrated pineapple
+Delicate
+Depth
+Dill
+Dirt
+dirty
+disjointed
+Doughy
+Drawing
+Dried Apple Chip
+dried apricot
+Dried Blueberry
+Dried Cherry
+Dried Cranberry
+dried fruit
+dried fruity
+Dried Green Apple
+Dried Orange
+Dried Paw Paw
+Dried Pawpaw
+Dried Pineapple
+Dried Red Berry
+Dried Red Fruit
+driedfruit
+drink
+dry
+dry
+Dry Apricot
+Dry Berry
+Dry Calrose Rice
+Dry Cereal
+Dry Chocolate
+Dry Corn
+Dry Corn Silk Tea
+Dry Forest
+dry fruit
+Dry Fruit (Red)
+Dry Fruity
+Dry Grains
+Dry Green Apple
+Dry Herb (Tea)
+dry nut
+Dry Orange
+Dry Red Berry
+Dry Red Fruit
+dry woody
+drying
+drying
+Dull
+dusty
+dusty
+earl
+earth
+earthy
+earthy
+empty
+Ethanol
+ethanol
+Faint
+falt
+Feijoa
+Ferment
+fermentation
+fermented
+fig
+Figs
+filter paper
+fine
+finegrain
+finetannin
+finetannins
+Fish
+Fishy
+fizzy
+flat
+flora
+floral
+Floral (Bright)
+Floral (Light)
+Floral (Short)
+Floral (Sweet)
+Floral (yellow flower)
+Floral (Yellow)
+flower
+flower
+flower
+Forest
+Fragrant
+fresh
+fruit
+fruit
+Fruit-Like
+fruit-like
+fruits
+fruity
+full
+fullbody
+funky
+garden
+Garden Pea
+Garlic
+generous
+gentle
+Ginger
+glue
+good
+good
+Gooseberry
+grain
+grain
+grains
+grainy
+granole
+grape
+grapefruit
+grapelike
+Grapes
+Grapy
+grass
+grassy
+grauy
+green
+green apple
+Green Apple-Like
+Green Banana
+Green Beans
+green coffee
+Green Fruit
+Green Olive
+Green Papaya
+Green Pea
+Green Pepper
+Green Tea
+green tea
+green veg
+greenapple
+greencapsicum
+greenfruit
+greenmango
+greentomato
+grey
+grippy
+grit
+gritty
+guava
+guave
+hard
+harsh
+hay
+Hay-Like
+hazelnut
+Hearty
+heavy
+herb
+Herbal
+Herb-Like
+Herbs
+Herby
+hessian
+Hibiscus
+Hiderous
+high
+high
+honey
+Honeydew Melon
+hot
+ice
+ice cream
+Iodine
+Isovaleric
+Jabuticaba
+Jackfruit
+Jam
+jam
+jammy
+Jamy
+Jasmin
+jasmine
+juice
+juice
+juicy
+Kiwi
+Kiwifruit
+kombucha
+lack
+lacking
+lactic
+lactose
+Lavender
+layed
+layered
+leather
+leathery
+lemon
+Lemon (Candy)
+Lemon (Sour)
+Lemon (Zest)
+Lemon Cordial
+lemony
+licorice
+light
+Light Singy
+light weight
+lightmedium
+lime
+lime
+Lime-Like
+lingeries
+lingering
+liquorice
+Lismore Flood Mud
+lite
+little
+Lively
+Long
+lovely
+low
+lowmedium
+Low-Medium
+Lychee
+malic
+Malic (Apple)
+Malic (Apple-Like)
+Malic (Berry)
+Malic (Current)
+Malic (Dark Fruit)
+Malic (Fruity)
+Malic (Grape)
+Malic (Grapy)
+Malic (Red Apple)
+Malic Acid (Apple)
+Malic red apple
+malty
+mandarin
+Mandarin
+Mandarine
+Manderine
+mango
+maple
+Marshmellow
+meat
+meaty
+medicinal
+medicine
+medium
+medium-full
+medium-heavy
+Medium-High
+Medium-Light
+Medium-Long
+Medium-Low
+Medium-Low
+Medium-Malic Acid
+Medium-Short
+Medium-Thick
+mellow
+melon
+melon
+melon
+Metalic
+metallic
+mid
+mid-big
+mid-lack
+mid-low
+mild
+mildferment
+mild-light
+Milk
+milk
+milk chocolate
+milkchocolate
+milklike
+Milky
+minimal
+miso
+misty
+moderate
+Molasse
+molasses
+Molassis
+mold
+Moldy
+mould
+mouldy
+mountain
+mouth
+Mouthcoating
+mouthdrying
+Muddy
+Mulberry
+Murky
+Mushroom
+mushroom
+Musk
+musty
+Mute
+muted
+Muted
+myrtle
+Nachoes
+Nachos
+Navel Orange
+nectar
+nectarine
+nibs
+nice
+nil
+no
+none
+not
+Not-Clean
+Nougat
+nut
+nutmeg
+nuts
+nuts
+nutty
+Oak
+odd
+Off
+oil
+oily
+ok
+old
+Old Books
+Old Cereal
+Old Crop
+old crop
+olive
+olive oil
+orange
+Orange (Burnt)
+Orange (Dried)
+Orange Blossum
+Orange Marmalade
+Orange Peel
+orangeblossum
+other
+overall
+overripe
+Paint
+Panela
+Panella
+Papary
+Papaya
+paper
+paper
+Papery
+parchment
+parchy
+Paresanches
+parsley
+passionfruit
+pasta
+Paste
+pastry
+Paw Paw
+Pea
+pea
+peach
+peaches
+Peach-Like
+peanut
+peanuts
+peapod
+pear
+pear
+pears
+Pecan
+peel
+pepper
+peppery
+perfume
+petal
+Petroleum
+Petroleum
+Phenolic
+Phosphoric
+pickle
+pineapple
+pink
+pipe
+pistachio
+pith
+pithy
+pizza
+Plastic
+pleasant
+plum
+Plum
+poached
+pod
+pointed
+pointy
+pomanegrante
+pomegranite
+pool cleaner
+Poop
+poor
+port
+Potato
+potatoe
+Powder
+powdery
+Praline
+prune
+prunes
+puckering
+Puer Tea
+Pulpy
+Pumpkin
+pungent
+Purple
+Quaker
+quick
+raisin
+Raisins
+raspberry
+Raw
+rawnut
+rawnut
+rawpeanut
+rawsugar
+red
+Red Apple (Cooked)
+Red Apple-Like
+Red Wine
+Redcurrant
+redgrape
+Reds
+relish
+Ribena
+Rice
+Rice (Calrose)
+rich
+rind
+Ripe
+roast
+Roast Beef
+roasted
+Roasted Almond
+Roasted Almonds
+Roasted Cereal
+Roasted Cereal Tea
+roasted nut
+Roasted Rice
+Roasted Rice Tea
+roasty
+rock
+Rockmelon
+rose
+Rosehip
+Roses
+rough
+round
+rounded
+rubber
+rubbery
+Rum
+Rummy
+Running
+rusty
+Sake
+salad
+sald
+Salicylic
+salty
+sandy
+sauce
+sauce
+savory
+savoury
+seaseme
+Seaweed
+Sediment
+seed
+seed
+seed
+sesame
+sharp
+shirt
+short
+Short-Medium
+silky
+Skunky
+slightly
+Slippery
+small
+small
+Smoke
+smoke
+smokey
+smoky
+smooth
+Snappy
+Snickers
+snow
+Snow Peas
+soft
+soft
+Soft Drink-Like Fizzy
+softdrink-like
+Soil
+soil
+solid
+sorbet
+Soup
+soup
+sour
+sour aromatics
+soury
+soy
+soy sauce
+Soysauce
+Sparkling Soda
+Sparkly
+spice
+spices
+spicy
+spread
+squeeze
+Stale
+Stale Biscuit
+stale grain
+star
+Starfruit
+steak
+steamed vegetables
+stewed
+sticky
+stone
+Stone fruit
+stonefruit
+stonefruitlike
+stonefruit-like
+stony
+straw
+strawberry
+strawberry
+Strawberry (Fresh)
+Strawberry Jam
+Straw-Like
+Strawy
+strong
+subtle
+sugar
+sugar
+sugarbrown
+Sugarcane
+Sugared Nut
+Sugary
+Sultanas
+Supple
+sweat
+sweatlike
+Sweaty Feet
+Sweaty Socks
+sweet
+sweet
+Sweet (Ethanol)
+Sweet (Lolly)
+sweet aromatics
+sweetcitrus
+Sweety Feet
+syrup
+syrup
+syrupy
+Taint
+Tamarind
+tangy
+tannic
+tannin
+Tannins
+tap
+tart
+tart
+tartaric
+Tartaric-Like
+tea
+tea
+tea
+Tea-Light
+tealike
+Tea-Like
+Tea-Milk
+Texture
+thick
+thin
+tingly
+toast
+Toast (Burnt)
+toasted
+Toasted Almond
+toasted bread
+Toasted Grain
+Toasted Nut
+Toasty
+tobacco
+tobacco
+toffee
+tomato
+tropical
+tropicalfruit
+tropicaljuice
+Turbinado
+umami
+unbalanced
+under
+underdeveloped
+Under-ripe
+unpleasant
+vanilla
+vanillia
+Vanillin
+veg
+Vegatative
+vege
+vegemite
+vegetable
+Vegetables
+vegetal
+vegetative
+Veggie
+Veggies
+velvet
+velvety
+very
+vibrant
+vinegar
+vinegary
+Vinger
+Vingery
+Violet
+viscose
+viscous
+walnut
+Walnuts
+warm spice
+washed
+washy
+water
+water
+Watermelon
+watery
+weak
+weight
+wet
+Wheat
+whiskey
+white
+wild
+wine
+winey
+wishy
+wood
+woody
+Yeasty
+yellow
+yellowfruit
+yoghurt-like
+yogurt
+zest
